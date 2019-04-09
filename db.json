@@ -1,8 +1,8 @@
 [
   {
-    id: 1,
-    author: "Flypside",
-    title: "Champion",
-    url: "https://www.youtube.com/watch?v=yV-keMeqTF4",
+    "id": 1,
+    "author": "Flypside",
+    "title": "Champion",
+    "url": "https://www.youtube.com/watch?v=yV-keMeqTF4",
   }
 ]
